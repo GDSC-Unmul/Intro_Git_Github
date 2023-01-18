@@ -31,6 +31,21 @@ GitHub adalah website yang digunakan untuk menyimpan dan mengelola kode suatu pr
         <td> Remote </td>
         <td> Inilah versi repository yang disimpan di server GitHub. Anda bisa melakukan sinkronisasi dengan versi clone sehingga perubahan offline tetap tercatat.  </td>
     </tr>
-
+    <tr>
+        <td> Branch </td>
+        <td> Cabang dari repository utama Anda. Di branch, kode yang Anda utak-atik tak akan berefek ke repository utama. Jadi, Anda bisa bebas bereksperimen atau memperbaiki bug di sini.  </td>
+    </tr>
+    <tr>
+        <td> Merge </td>
+        <td> Menggabungkan kode yang sudah diubah pada suatu branch ke repository lainnya. Jadi, setelah Anda bereksperimen dengan kode di branch, Anda bisa langsung memasukkannya pada repository utama dengan merge.  </td>
+    </tr>
+    <tr>
+        <td> Pull request </td>
+        <td> Mengusulkan suatu perubahan pada repository ke pemilik/pemimpin project. Lalu, ia berhak menerima atau menolak usulan tersebut.  </td>
+    </tr>
+    <tr>
+        <td> Issue </td>
+        <td> Saran, pertanyaan, atau permintaan yang berhubungan dengan repository. Bisa dibuat oleh anggota tim Anda ataupun semua orang (untuk public repository).  </td>
+    </tr>
 </table>
 
