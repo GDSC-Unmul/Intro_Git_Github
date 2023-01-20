@@ -14,6 +14,8 @@ GitHub adalah website yang digunakan untuk menyimpan dan mengelola kode suatu pr
     <li>Git untuk Linux bisa <a href='https://git-scm.com/download/linux'>klik disini</a></li>
 </ul>
 
+Kumpulan perintah git command line cheat sheet bisa dilihat <a href='https://drive.google.com/file/d/1EUGY0aUPmqE4RaEJPOjt9CG7ycPHRi1C/view?usp=share_link'>disini.</a>
+
 <table> 
     <tr>
         <td> Istilah </td>
