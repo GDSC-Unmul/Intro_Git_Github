@@ -61,3 +61,6 @@ Kumpulan perintah git command line cheat sheet bisa dilihat <a href='https://dri
 
 <h2>Commit Illustration</h2>
 <img src='https://marklodato.github.io/visual-git-guide/basic-usage.svg'>
+
+<h2>Branch & Merge Illustration</h2>
+<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4IkgIwsGWN52UBrCWimoeCqeQ4fo2F91_mg&usqp=CAU'>
