@@ -59,3 +59,5 @@ Kumpulan perintah git command line cheat sheet bisa dilihat <a href='https://dri
     </tr>
 </table>
 
+<h2>Commit Illustration</h2>
+<img src='https://marklodato.github.io/visual-git-guide/basic-usage.svg'>
